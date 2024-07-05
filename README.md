@@ -1,4 +1,4 @@
-# MNIST Digit Classifier on PYNQ Z2
+# 1. MNIST Digit Classifier on PYNQ Z2
 
 The MNIST folder consists the files for the implementation of MNIST digit classifier using CNN on the pynq z2 board.
 
