@@ -1,3 +1,5 @@
+# MNIST Digit Classifier on PYNQ Z2
+
 The MNIST folder consists the files for the implementation of MNIST digit classifier using CNN on the pynq z2 board.
 
 This project focuses on developing a hardware design for digit classification from image data to deploy on PYNQ Z2. Convolutional Neural Network is the most efficient method for image classification. A very fundamental CNN Architecture is developed, trained and fined tuned on the MNIST (Modified National Institute of Standards and Technology) digit classification dataset using keras from Tensorflow.
